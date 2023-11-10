@@ -1,0 +1,8 @@
+.latest-news__card-slider {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 69%;
+    margin-left: auto;
+    margin-top: 7%;
+}

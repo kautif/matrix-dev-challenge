@@ -1,0 +1,21 @@
+.latest-news {
+    background-color: #63666B;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    color: white;
+    padding: 25px 150px;
+    position: absolute;
+    top: 25%;
+    z-index: -1
+}
+
+.latest-news h1 {
+    margin-bottom: 0;
+}
+
+.latest-news h2 {
+    font-weight: 100;
+    width: 25%;
+    margin-top: 5px;
+}
